@@ -1,0 +1,19 @@
+{
+  "name": "kinesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lifion-kinesis": "^1.2.1",
+    "line-reader": "^0.4.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.14"
+  }
+}
